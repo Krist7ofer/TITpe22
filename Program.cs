@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Tere Maailm, veel üks muudatus");
+Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
+Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
+Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
+Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
+Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
+Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
