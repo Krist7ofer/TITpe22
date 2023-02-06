@@ -1,7 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
-Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
-Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
-Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
-Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
-Console.WriteLine("Tere Maailm, veel üks muudatus"); Console.WriteLine("Tere Maailm, veel üks muudatus");
+﻿void MyFirstMethod()
+{
+    // Do something
+}
+
+void MySecondMethod()
+{
+    // Do something
+}
+
+void MyThirdMethod()
+{
+    // Do something
+}
